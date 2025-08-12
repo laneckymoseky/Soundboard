@@ -19,6 +19,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/sounds/boo.mp3
-    - assets/sounds/yay.mp3
-    - assets/sounds/buzzer.mp3
-    - assets/sounds/bell.mp3
+    - assets/sounds/wrong.mp3
+    - assets/sounds/correct.mp3
+    - assets/sounds/goated.mp3
